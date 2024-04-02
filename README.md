@@ -58,31 +58,7 @@ dt.predict([[0.5, 0.8, 9, 260, 6, 0, 1, 2]])
 ```
 
 ## Output:
-
-##  data.head()
-![decision tree classifier model](ml601.png)
-
-## data.info()
-![decision tree classifier model](ml602.png)
-
-## isnull() and sum()
-![decision tree classifier model](ml603.png)
-
-## data value counts()
-![decision tree classifier model](ml604.png)
-
-## data.head() for salary
-![decision tree classifier model](ml605.png)
-
-## x.head()
-![decision tree classifier model](ml606.png)
-
-## accuracy value 
-![decision tree classifier model](ml607.png)
-
-## data prediction
-![decision tree classifier model](ml608.png)
-
+![WhatsApp Image 2024-04-02 at 09 25 50_5f499e7b](https://github.com/sanjaysivaramakrishnan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/151629616/ac80ddfb-095a-46a1-b361-4d514395ceec)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified successfully.
