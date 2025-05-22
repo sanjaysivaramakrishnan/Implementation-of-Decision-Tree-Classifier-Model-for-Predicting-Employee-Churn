@@ -66,8 +66,8 @@ model.predict([[0.8,	0.86,	5,	262,	6,	0,	0,	2]])
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/d65006d5-f4f3-408d-aa7d-b8803a80e045)
-![image](https://github.com/user-attachments/assets/10bb6e01-dc1b-4e39-bc1b-96a50542cf00)
 ![image](https://github.com/user-attachments/assets/51d53895-b35e-47c0-a886-eb712637c056)
+![image](https://github.com/user-attachments/assets/10bb6e01-dc1b-4e39-bc1b-96a50542cf00)
 
 
 
